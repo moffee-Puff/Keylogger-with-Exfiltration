@@ -34,14 +34,14 @@ Key Features
 *Required libraries: pynput, requests, smtplib, ftplib.
 
 # Installation
-Install Python Dependencies:
-bash
-sudo apt update
-sudo apt install python3-pip
-pip3 install pynput requests
-Clone the Repository:
+  Install Python Dependencies:
+    ```bash
+      sudo apt update
+      sudo apt install python3-pip
+      pip3 install pynput requests
 
-* bash*
+#Clone the Repository:
+    ```bash
 git clone https://github.com/yourusername/keylogger-research.git
 cd keylogger-research
 Configure Exfiltration Method:
